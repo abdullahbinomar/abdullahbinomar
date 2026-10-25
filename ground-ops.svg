@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-label="Ground ops: web, brand and film work">
+<title>Ground ops: web, brand and film work</title>
+<style>
+.mono{font-family:'JetBrains Mono','Cascadia Code',Consolas,'SFMono-Regular',Menlo,'DejaVu Sans Mono',monospace} .sans{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes pulse{0%{opacity:1}50%{opacity:.25}100%{opacity:1}}
+@keyframes ring{0%{r:4;opacity:.9}100%{r:14;opacity:0}}
+@keyframes twinkle{0%,100%{opacity:.15}50%{opacity:1}}
+@keyframes rise{0%,100%{transform:scaleY(.35)}50%{transform:scaleY(1)}}
+.blink{animation:blink 1s steps(1) infinite}
+.pulse{animation:pulse 1.6s ease-in-out infinite}
+.tw{animation:twinkle 3s ease-in-out infinite}
+.bar{transform-box:fill-box;transform-origin:bottom;animation:rise 2.4s ease-in-out infinite}
+</style>
+<rect x="0.5" y="0.5" width="999" height="329" rx="16" fill="#040405" stroke="#2a1d17"/>
+<path d="M10 28 V10 H28" fill="none" stroke="#ff5a1f" stroke-width="2" opacity=".85"/>
+<path d="M990 28 V10 H972" fill="none" stroke="#ff5a1f" stroke-width="2" opacity=".85"/>
+<path d="M10 302 V320 H28" fill="none" stroke="#ff5a1f" stroke-width="2" opacity=".85"/>
+<path d="M990 302 V320 H972" fill="none" stroke="#ff5a1f" stroke-width="2" opacity=".85"/>
+<text x="48" y="44" class="mono" font-size="13" fill="#ff5a1f" letter-spacing="3">04 //</text><text x="100" y="44" class="mono" font-size="13" fill="#f5f3f0" letter-spacing="3">GROUND OPS  —  WEB · BRAND · FILM</text><line x1="48" y1="58" x2="952" y2="58" stroke="#2a1d17"/><rect x="48" y="57" width="60" height="2" fill="#ff5a1f"><animate attributeName="x" values="48;892;48" dur="9s" repeatCount="indefinite"/></rect>
+<rect x="48" y="76" width="292" height="104" rx="12" fill="#0b0b0d" stroke="#2a1d17"/>
+<rect x="48" y="94" width="3" height="22" fill="#ff5a1f"/>
+<text x="66" y="111" class="sans" font-size="17" font-weight="700" fill="#f5f3f0">Coach SwazZ</text>
+<text x="324" y="109" text-anchor="end" class="mono" font-size="10.5" fill="#ff5a1f" letter-spacing="2">WEB</text>
+<text x="66" y="140" class="sans" font-size="13" fill="#8d8f96">Keynote-speaker site in Wix Studio,</text>
+<text x="66" y="160" class="sans" font-size="13" fill="#8d8f96">3 lead automations + SEO</text>
+<rect x="358" y="76" width="292" height="104" rx="12" fill="#0b0b0d" stroke="#2a1d17"/>
+<rect x="358" y="94" width="3" height="22" fill="#ff5a1f"/>
+<text x="376" y="111" class="sans" font-size="17" font-weight="700" fill="#f5f3f0">KARIGAR</text>
+<text x="634" y="109" text-anchor="end" class="mono" font-size="10.5" fill="#ff5a1f" letter-spacing="2">BRAND</text>
+<text x="376" y="140" class="sans" font-size="13" fill="#8d8f96">Logo system and brand book for a</text>
+<text x="376" y="160" class="sans" font-size="13" fill="#8d8f96">household-care brand</text>
+<rect x="668" y="76" width="292" height="104" rx="12" fill="#0b0b0d" stroke="#2a1d17"/>
+<rect x="668" y="94" width="3" height="22" fill="#ff5a1f"/>
+<text x="686" y="111" class="sans" font-size="17" font-weight="700" fill="#f5f3f0">Xen-Hex Chemicals</text>
+<text x="944" y="109" text-anchor="end" class="mono" font-size="10.5" fill="#ff5a1f" letter-spacing="2">BRAND</text>
+<text x="686" y="140" class="sans" font-size="13" fill="#8d8f96">Product labels in a dark</text>
+<text x="686" y="160" class="sans" font-size="13" fill="#8d8f96">luxury visual system</text>
+<rect x="48" y="196" width="292" height="104" rx="12" fill="#0b0b0d" stroke="#2a1d17"/>
+<rect x="48" y="214" width="3" height="22" fill="#ff5a1f"/>
+<text x="66" y="231" class="sans" font-size="17" font-weight="700" fill="#f5f3f0">Seed of Azadi</text>
+<text x="324" y="229" text-anchor="end" class="mono" font-size="10.5" fill="#ff5a1f" letter-spacing="2">FILM</text>
+<text x="66" y="260" class="sans" font-size="13" fill="#8d8f96">Sci-fi short for 14 August,</text>
+<text x="66" y="280" class="sans" font-size="13" fill="#8d8f96">made with AI video</text>
+<rect x="358" y="196" width="292" height="104" rx="12" fill="#0b0b0d" stroke="#2a1d17"/>
+<rect x="358" y="214" width="3" height="22" fill="#ff5a1f"/>
+<text x="376" y="231" class="sans" font-size="17" font-weight="700" fill="#f5f3f0">Video editing</text>
+<text x="634" y="229" text-anchor="end" class="mono" font-size="10.5" fill="#ff5a1f" letter-spacing="2">FILM</text>
+<text x="376" y="260" class="sans" font-size="13" fill="#8d8f96">Edits for international</text>
+<text x="376" y="280" class="sans" font-size="13" fill="#8d8f96">clients, 5.0 rated</text>
+<rect x="668" y="196" width="292" height="104" rx="12" fill="#0b0b0d" stroke="#2a1d17"/>
+<rect x="668" y="214" width="3" height="22" fill="#ff5a1f"/>
+<text x="686" y="231" class="sans" font-size="17" font-weight="700" fill="#f5f3f0">Proposals + PDFs</text>
+<text x="944" y="229" text-anchor="end" class="mono" font-size="10.5" fill="#ff5a1f" letter-spacing="2">DOCS</text>
+<text x="686" y="260" class="sans" font-size="13" fill="#8d8f96">Build plans, product overviews</text>
+<text x="686" y="280" class="sans" font-size="13" fill="#8d8f96">and brand books for clients</text>
+</svg>
